@@ -1,0 +1,521 @@
+{
+  "items": [
+    {
+      "description": "Building modern web applications demands the right set of tools. With an abundance of JavaScript libraries available, finding the perfect ones for creating UI components can be overwhelming. That's where this repository comes in handy – a curated list of the best JavaScript libraries tailored for diverse UI components. 🚀🚀",
+      "items": [],
+      "title": "Why This Repository?"
+    },
+    {
+      "description": "UI Components",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Accordion / Collapse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badges / Chips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notification, Snackbar and Toast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buttons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carousel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charts and Graphs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cards",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagination",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rating",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Menus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breadcrumb Navigation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snackbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timeline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tooltip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drag and Drop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form Validation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Date Pickers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D and Games",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Table",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-11T05:04:52Z",
+            "owner": "themeselection",
+            "repo": "Awesome-JavaScript-Libraries",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI Components"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Accordion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Badges / Chips"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Notification, Snackbar and Toast"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Buttons"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Carousels"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dropdown"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Modals"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Navbar"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Charts and Graphs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Formatting"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Pagination"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Progress/ Spinners/ Loaders"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Rating"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Breadcrumbs"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Timeline"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Drag and Drop"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Form Validation"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Date Pickers"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "3D and Games"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Calendar"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Search"
+    },
+    {
+      "description": "Top 🔼",
+      "items": [],
+      "title": "Editors"
+    },
+    {
+      "description": "Top 🔼\nIf you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our Contributing Guidelines",
+      "items": [],
+      "title": "Table"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:46:47.851Z",
+    "original_repository": "themeselection/Awesome-JavaScript-Libraries",
+    "original_repository_sha": "74b3c785855fd70838ed5587ac32b2af0ae214d1",
+    "enhanced_repository": "enhansome/enhansome-Awesome-JavaScript-Libraries",
+    "enhanced_repository_description": null,
+    "title": "Awesome-JavaScript-Libraries with stars"
+  }
+}
