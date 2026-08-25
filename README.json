@@ -433,8 +433,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Accordion Lightweight and accessible accordion module with an extensible API. With the module, you can create an accordion on your website, which is useful, especially for creating FAQ lists. JavaScript & CSS",
+              "title": "Accordion",
+              "description": "Lightweight and accessible accordion module with an extensible API. With the module, you can create an accordion on your website, which is useful, especially for creating FAQ lists. JavaScript & CSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -455,8 +455,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Notie A clean and simple notification, input, and selection suite for JavaScript, with no Dependencies. JavaScript",
+              "title": "Notie",
+              "description": "A clean and simple notification, input, and selection suite for JavaScript, with no Dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -470,8 +470,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Sweetalert2 A beautiful, responsive, highly customizable, and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. JavaScript",
+              "title": "Sweetalert2",
+              "description": "A beautiful, responsive, highly customizable, and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,8 +485,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "React-Toastify React-Toastify allows you to add notifications to your app with ease. React",
+              "title": "React-Toastify",
+              "description": "React-Toastify allows you to add notifications to your app with ease. React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -495,13 +495,13 @@
                 "last_commit": "2026-04-19T21:08:58Z",
                 "owner": "fkhadra",
                 "repo": "react-toastify",
-                "stars": 13435
+                "stars": 13436
               }
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "React Hot Toast A React Toast library that is Lightweight, customizable, and beautiful by default. React & TypeScript",
+              "title": "React Hot Toast",
+              "description": "A React Toast library that is Lightweight, customizable, and beautiful by default. React & TypeScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -515,8 +515,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "VanillaToasts This library is extremely lightweight and depends on no other library. JavaScript",
+              "title": "VanillaToasts",
+              "description": "This library is extremely lightweight and depends on no other library. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,8 +530,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Notify.js Notify.js is a jQuery plugin to provide simple yet fully customizable notifications. JavaScript",
+              "title": "Notify.js",
+              "description": "Notify.js is a jQuery plugin to provide simple yet fully customizable notifications. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -545,8 +545,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "Toastr toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended. JavaScript",
+              "title": "Toastr",
+              "description": "toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -560,8 +560,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "Vue-toast-notification A Vue toast notification plugin for Vue.js. Vue.js",
+              "title": "Vue-toast-notification",
+              "description": "A Vue toast notification plugin for Vue.js. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -597,8 +597,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Cloud Sync Button Button / progress-bar with cloud synchronization animation in vanilla JavaScript, Vue.js, and Web component formats. Vue.js",
+              "title": "Cloud Sync Button",
+              "description": "Button / progress-bar with cloud synchronization animation in vanilla JavaScript, Vue.js, and Web component formats. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,8 +612,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Add to Calendar The convenient JavaScript snippet, which lets you reliably create beautiful buttons where people can add events to their calendars. JavaScript",
+              "title": "Add to Calendar",
+              "description": "The convenient JavaScript snippet, which lets you reliably create beautiful buttons where people can add events to their calendars. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,8 +627,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Animating-Buttons Explore Amazing Buttons animation for your next project. HTML, CSS & JavaScript",
+              "title": "Animating-Buttons",
+              "description": "Explore Amazing Buttons animation for your next project. HTML, CSS & JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,8 +649,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "No UI Slider A lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. JavaScript",
+              "title": "No UI Slider",
+              "description": "A lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -664,8 +664,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Tiny Slider Tiny-Slide is an open-source vanilla JavaScript library that lets you build beautiful and responsive carousel sliders. JavaScript",
+              "title": "Tiny Slider",
+              "description": "Tiny-Slide is an open-source vanilla JavaScript library that lets you build beautiful and responsive carousel sliders. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -679,8 +679,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "Simple Slider Simple Slider is an open-source, lightweight, and highly testable JavaScript Carousel slider library. JavaScript",
+              "title": "Simple Slider",
+              "description": "Simple Slider is an open-source, lightweight, and highly testable JavaScript Carousel slider library. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -694,8 +694,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "FullpageJS Fullpage.js provides a range of scroll effects and transitions to enhance the visual appeal of the website. React.js",
+              "title": "FullpageJS",
+              "description": "Fullpage.js provides a range of scroll effects and transitions to enhance the visual appeal of the website. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,8 +709,8 @@
             },
             {
               "node_type": "item",
-              "title": "12.",
-              "description": "React Lightbox A component feature that enables users to cycle through the images in the gallery containing the slideshow. React.js",
+              "title": "React Lightbox",
+              "description": "A component feature that enables users to cycle through the images in the gallery containing the slideshow. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -724,8 +724,8 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "React Responsive Carousel React Responsive Carousel is a powerful, lightweight, and fully customizable carousel component for React apps. React.js",
+              "title": "React Responsive Carousel",
+              "description": "React Responsive Carousel is a powerful, lightweight, and fully customizable carousel component for React apps. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,8 +739,8 @@
             },
             {
               "node_type": "item",
-              "title": "14.",
-              "description": "React-ID-Swiper React ID Swiper is a library to use Swiper as a React JS component that allows you its modules to custom build. React.js",
+              "title": "React-ID-Swiper",
+              "description": "React ID Swiper is a library to use Swiper as a React JS component that allows you its modules to custom build. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,8 +754,8 @@
             },
             {
               "node_type": "item",
-              "title": "16.",
-              "description": "React Swipeable An open-source project that offers a swipeable component for React applications. React.js",
+              "title": "React Swipeable",
+              "description": "An open-source project that offers a swipeable component for React applications. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -791,8 +791,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "vanillaSelectBox A dropdown menu with lots of features that takes a select tag and transforms it into a single or multi-select menu with 1 or 2 levels. JavaScript",
+              "title": "vanillaSelectBox",
+              "description": "A dropdown menu with lots of features that takes a select tag and transforms it into a single or multi-select menu with 1 or 2 levels. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,8 +806,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "DownShift A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components. React",
+              "title": "DownShift",
+              "description": "A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components. React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -821,8 +821,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "jQuery-MultiSelect Turn a multiselect list into a nice and easy-to-use list with checkboxes. JavaScript",
+              "title": "jQuery-MultiSelect",
+              "description": "Turn a multiselect list into a nice and easy-to-use list with checkboxes. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,8 +843,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "SweetAlert2 A beautiful, responsive, highly customizable, and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. JavaScript",
+              "title": "SweetAlert2",
+              "description": "A beautiful, responsive, highly customizable, and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -858,8 +858,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Vex A modern dialog library which is highly configurable, easily stylable, and gets out of the way. JavaScript",
+              "title": "Vex",
+              "description": "A modern dialog library which is highly configurable, easily stylable, and gets out of the way. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -873,8 +873,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "AlertifyJS AlertifyJS is a JavaScript framework for developing pretty browser dialogs and notifications. JavaScript",
+              "title": "AlertifyJS",
+              "description": "AlertifyJS is a JavaScript framework for developing pretty browser dialogs and notifications. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,8 +888,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Tingle.js ⚡ 2kB vanilla modal plugin, no dependencies, and easy-to-use. JavaScript",
+              "title": "Tingle.js",
+              "description": "⚡ 2kB vanilla modal plugin, no dependencies, and easy-to-use. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -903,8 +903,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Rmodal A simple 1.2 KB modal dialog with no dependencies. JavaScript",
+              "title": "Rmodal",
+              "description": "A simple 1.2 KB modal dialog with no dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -918,8 +918,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "Vue-js-modal Easy to use, highly customizable Vue.js modal library. Vue.js",
+              "title": "Vue-js-modal",
+              "description": "Easy to use, highly customizable Vue.js modal library. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,8 +955,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Pushbar.js A tiny JavaScript plugin for creating sliding drawers in web apps. It is fully customizable and dependency-free. You can use it as sidebar menus or option drawers. JavaScript",
+              "title": "Pushbar.js",
+              "description": "A tiny JavaScript plugin for creating sliding drawers in web apps. It is fully customizable and dependency-free. You can use it as sidebar menus or option drawers. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -970,8 +970,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "SuperSlide.js A lightweight, configurable sliding menu for your next PWA with promises. Only 2k gzipped! JavaScript",
+              "title": "SuperSlide.js",
+              "description": "A lightweight, configurable sliding menu for your next PWA with promises. Only 2k gzipped! JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,8 +985,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Menuspy A JavaScript library to make navigation menus highlight the item based on the currently in view section. JavaScript",
+              "title": "Menuspy",
+              "description": "A JavaScript library to make navigation menus highlight the item based on the currently in view section. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,8 +1000,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "JavaScript-Spatial-Navigation A JavaScript-based implementation of Spatial Navigation. JavaScript",
+              "title": "JavaScript-Spatial-Navigation",
+              "description": "A JavaScript-based implementation of Spatial Navigation. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1015,8 +1015,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "SIDR Sidr is a jQuery plugin for creating side menus and the easiest way to make your menu responsive. JavaScript",
+              "title": "SIDR",
+              "description": "Sidr is a jQuery plugin for creating side menus and the easiest way to make your menu responsive. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1030,8 +1030,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Responsive-nav.js Responsive navigation plugin without library dependencies and with fast touchscreen support. JavaScript",
+              "title": "Responsive-nav.js",
+              "description": "Responsive navigation plugin without library dependencies and with fast touchscreen support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1045,8 +1045,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "PriorityNavigation.js PriorityNav is a lightweight accessible pure JavaScript plugin that will move your menu items if they don't fit their parent. JavaScript",
+              "title": "PriorityNavigation.js",
+              "description": "PriorityNav is a lightweight accessible pure JavaScript plugin that will move your menu items if they don't fit their parent. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1082,8 +1082,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "D3.js A JavaScript library for producing dynamic, interactive data visualizations in web browsers. JavaScript",
+              "title": "D3.js",
+              "description": "A JavaScript library for producing dynamic, interactive data visualizations in web browsers. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1092,13 +1092,13 @@
                 "last_commit": "2026-05-28T14:43:01Z",
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113544
+                "stars": 113545
               }
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Chart.js A simple yet flexible JavaScript charting library for designers and developers. JavaScript",
+              "title": "Chart.js",
+              "description": "A simple yet flexible JavaScript charting library for designers and developers. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,8 +1112,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "Chartist.js A simple responsive chart library built with SVG that works with both CSS and JavaScript. JavaScript",
+              "title": "Chartist.js",
+              "description": "A simple responsive chart library built with SVG that works with both CSS and JavaScript. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,8 +1127,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Apexcharts.js A modern JavaScript charting library that allows you to build interactive data visualizations with a simple API and 100+ ready-to-use samples. JavaScript",
+              "title": "Apexcharts.js",
+              "description": "A modern JavaScript charting library that allows you to build interactive data visualizations with a simple API and 100+ ready-to-use samples. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1142,8 +1142,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "BillBoard.js Billboard.js is a reusable, easy interface JavaScript chart library, based on D3.js. JavaScript",
+              "title": "BillBoard.js",
+              "description": "Billboard.js is a reusable, easy interface JavaScript chart library, based on D3.js. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,8 +1157,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "E-Charts An open-source and widely used library for its comprehensive range of chart types and extensive customization options. JavaScript",
+              "title": "E-Charts",
+              "description": "An open-source and widely used library for its comprehensive range of chart types and extensive customization options. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1172,8 +1172,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Frappe Charts Simple, responsive, modern SVG Charts with zero dependencies. JavaScript",
+              "title": "Frappe Charts",
+              "description": "Simple, responsive, modern SVG Charts with zero dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1187,8 +1187,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "amCharts The most advanced amCharts charting library for JavaScript and TypeScript apps. JavaScript",
+              "title": "amCharts",
+              "description": "The most advanced amCharts charting library for JavaScript and TypeScript apps. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,14 +1202,14 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "Recharts A composable charting library built on React components. React",
+              "title": "Recharts",
+              "description": "A composable charting library built on React components. React",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:19:32Z",
+                "last_commit": "2026-08-25T04:59:51Z",
                 "owner": "recharts",
                 "repo": "recharts",
                 "stars": 27516
@@ -1217,8 +1217,8 @@
             },
             {
               "node_type": "item",
-              "title": "14.",
-              "description": "Victory A collection of composable React components for building interactive data visualizations. React.js",
+              "title": "Victory",
+              "description": "A collection of composable React components for building interactive data visualizations. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,8 +1232,8 @@
             },
             {
               "node_type": "item",
-              "title": "15.",
-              "description": "React-vis A collection of React components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, and more. React.js",
+              "title": "React-vis",
+              "description": "A collection of React components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, and more. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1242,13 +1242,13 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8788
+                "stars": 8787
               }
             },
             {
               "node_type": "item",
-              "title": "16.",
-              "description": "react-chartjs-2 React wrapper for Chart.js, a popular charting library. React.js",
+              "title": "react-chartjs-2",
+              "description": "React wrapper for Chart.js, a popular charting library. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,8 +1262,8 @@
             },
             {
               "node_type": "item",
-              "title": "17.",
-              "description": "Nivo Nivo provides supercharged React components to easily build dataviz apps, built on top of d3. React",
+              "title": "Nivo",
+              "description": "Nivo provides supercharged React components to easily build dataviz apps, built on top of d3. React",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1277,8 +1277,8 @@
             },
             {
               "node_type": "item",
-              "title": "18.",
-              "description": "vue-chartjs Vue.js wrapper for Chart.js, providing reactive charts. Vue.js",
+              "title": "vue-chartjs",
+              "description": "Vue.js wrapper for Chart.js, providing reactive charts. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1314,8 +1314,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Cleave.js An easy way to increase input field readability is by formatting your typed data. JavaScript",
+              "title": "Cleave.js",
+              "description": "An easy way to increase input field readability is by formatting your typed data. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1329,8 +1329,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Inputmask Inputmask is a JavaScript library that helps the user with the input by ensuring a predefined format. JavaScript",
+              "title": "Inputmask",
+              "description": "Inputmask is a JavaScript library that helps the user with the input by ensuring a predefined format. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1344,8 +1344,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "AutoNumeric.js A standalone library that provides live-as-you-type formatting for international numbers and currencies. JavaScript",
+              "title": "AutoNumeric.js",
+              "description": "A standalone library that provides live-as-you-type formatting for international numbers and currencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1359,8 +1359,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Format.Js FormatJS is a collection of JavaScript libraries designed for internationalizing web applications. It focuses on formatting numbers, dates, and strings for display. JavaScript",
+              "title": "Format.Js",
+              "description": "FormatJS is a collection of JavaScript libraries designed for internationalizing web applications. It focuses on formatting numbers, dates, and strings for display. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1374,8 +1374,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Numeral.js While not specifically designed for input fields, Numeral.js is a library for formatting and manipulating numbers in JavaScript. It can be useful for formatting numeric values displayed to users. JavaScript",
+              "title": "Numeral.js",
+              "description": "While not specifically designed for input fields, Numeral.js is a library for formatting and manipulating numbers in JavaScript. It can be useful for formatting numeric values displayed to users. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,8 +1396,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "React Paginate A React.js component for handling pagination. It's customizable and works well with React-based projects. React.js",
+              "title": "React Paginate",
+              "description": "A React.js component for handling pagination. It's customizable and works well with React-based projects. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,8 +1411,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Vue.js Paginate A Vue.js component for creating pagination. It's simple to use and integrates seamlessly with Vue.js applications. Vue.js",
+              "title": "Vue.js Paginate",
+              "description": "A Vue.js component for creating pagination. It's simple to use and integrates seamlessly with Vue.js applications. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1426,8 +1426,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Laravel Vue Pagination Laravel Vue Pagination is a Vue.js pagination component for Laravel. It provides out-of-the-box components for Bootstrap 4/5 and Tailwind CSS. Vue.js",
+              "title": "Laravel Vue Pagination",
+              "description": "Laravel Vue Pagination is a Vue.js pagination component for Laravel. It provides out-of-the-box components for Bootstrap 4/5 and Tailwind CSS. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1441,8 +1441,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Ngx-Pagination The simplest solution for pagination in Angular. Angular",
+              "title": "Ngx-Pagination",
+              "description": "The simplest solution for pagination in Angular. Angular",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1456,8 +1456,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "rc-pagination An open-source React pagination component for your React web apps. React.js",
+              "title": "rc-pagination",
+              "description": "An open-source React pagination component for your React web apps. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,8 +1493,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "ProgressBar.js Responsive and slick progress bars with animated SVG paths. Use built-in shapes or create your own paths. Customize the animations as you wish. JavaScript",
+              "title": "ProgressBar.js",
+              "description": "Responsive and slick progress bars with animated SVG paths. Use built-in shapes or create your own paths. Customize the animations as you wish. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1508,8 +1508,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "NProgress Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium. JavaScript",
+              "title": "NProgress",
+              "description": "Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1518,13 +1518,13 @@
                 "last_commit": "2022-06-04T00:38:39Z",
                 "owner": "rstacruz",
                 "repo": "nprogress",
-                "stars": 26381
+                "stars": 26380
               }
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Pace Pace is a JavaScript and CSS loader for dynamic page loads. It automatically monitors your Ajax requests, event loop lag, document-ready state, and elements on your page to show a progress indicator. JavaScript and CSS",
+              "title": "Pace",
+              "description": "Pace is a JavaScript and CSS loader for dynamic page loads. It automatically monitors your Ajax requests, event loop lag, document-ready state, and elements on your page to show a progress indicator. JavaScript and CSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1538,8 +1538,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Spin.js Spin.js is a simple, animated JavaScript loading spinner. It's highly customizable and can be used in various scenarios. JavaScript",
+              "title": "Spin.js",
+              "description": "Spin.js is a simple, animated JavaScript loading spinner. It's highly customizable and can be used in various scenarios. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1553,8 +1553,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "React-Loading Easy to use loading animations for React projects. Uses SVG animations from Brent Jackson's loading project. React.js",
+              "title": "React-Loading",
+              "description": "Easy to use loading animations for React projects. Uses SVG animations from Brent Jackson's loading project. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,8 +1568,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "Epic-spinners Epic-Spinners is an open-source, easy-to-use CSS spinner collection with Vue JS 3 integration. Vue.js",
+              "title": "Epic-spinners",
+              "description": "Epic-Spinners is an open-source, easy-to-use CSS spinner collection with Vue JS 3 integration. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1590,8 +1590,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "star-rating.js A zero-dependency library that transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element. JavaScript & HTML",
+              "title": "star-rating.js",
+              "description": "A zero-dependency library that transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element. JavaScript & HTML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1605,8 +1605,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "react-stars A simple star rating component for your React projects. React.js",
+              "title": "react-stars",
+              "description": "A simple star rating component for your React projects. React.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1620,8 +1620,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "RateYo! A simple and flexible, vanilla JS star rating Plugin. It uses SVG to render a rating. JavaScript",
+              "title": "RateYo!",
+              "description": "A simple and flexible, vanilla JS star rating Plugin. It uses SVG to render a rating. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1635,8 +1635,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "vue-star-rating A simple, highly customizable star rating component for Vue 2.x / 3.x. Vue.js",
+              "title": "vue-star-rating",
+              "description": "A simple, highly customizable star rating component for Vue 2.x / 3.x. Vue.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1650,8 +1650,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "Raty A Star Rating Plugin JavaScript",
+              "title": "Raty",
+              "description": "A Star Rating Plugin JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1687,8 +1687,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Laravel-breadcrumbs A simple Laravel-style way to create breadcrumbs. Laravel",
+              "title": "Laravel-breadcrumbs",
+              "description": "A simple Laravel-style way to create breadcrumbs. Laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1709,8 +1709,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Timesheet.js A simple timeline library built on HTML5 and CSS3. JavaScript",
+              "title": "Timesheet.js",
+              "description": "A simple timeline library built on HTML5 and CSS3. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,8 +1724,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Labella.js Designed for creating packed timeline labels, especially when many labels are required in a short period. JavaScript",
+              "title": "Labella.js",
+              "description": "Designed for creating packed timeline labels, especially when many labels are required in a short period. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1739,8 +1739,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "React-Chrono A React package for creating timelines in various formats like horizontal, vertical, and vertical-alternating. JavaScript (React)",
+              "title": "React-Chrono",
+              "description": "A React package for creating timelines in various formats like horizontal, vertical, and vertical-alternating. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,8 +1754,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Vertical Timeline A CSS3 and JavaScript-based timeline library with support for bounce animation. JavaScript, CSS3",
+              "title": "Vertical Timeline",
+              "description": "A CSS3 and JavaScript-based timeline library with support for bounce animation. JavaScript, CSS3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,8 +1769,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Vis Timeline Offers interactive timelines and 2D graphs, suitable for data visualization. JavaScript",
+              "title": "Vis Timeline",
+              "description": "Offers interactive timelines and 2D graphs, suitable for data visualization. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1784,8 +1784,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "TimelineJS3 Widely used for creating timelines, adopted by many popular websites. JavaScript",
+              "title": "TimelineJS3",
+              "description": "Widely used for creating timelines, adopted by many popular websites. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1799,8 +1799,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "React Calendar Timeline A responsive timeline component for React, featuring basic functionalities like panning and zooming. JavaScript (React)",
+              "title": "React Calendar Timeline",
+              "description": "A responsive timeline component for React, featuring basic functionalities like panning and zooming. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1814,8 +1814,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "React Vertical Timeline Useful for creating interactive timelines with React.Js and CSS. JavaScript (React), CSS",
+              "title": "React Vertical Timeline",
+              "description": "Useful for creating interactive timelines with React.Js and CSS. JavaScript (React), CSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1829,8 +1829,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "TimelineJS Offers a variety of customization options for timelines. JavaScript",
+              "title": "TimelineJS",
+              "description": "Offers a variety of customization options for timelines. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1844,8 +1844,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Chronoline.js Displays events in chronological or horizontal order, and supports various timeframes. JavaScript",
+              "title": "Chronoline.js",
+              "description": "Displays events in chronological or horizontal order, and supports various timeframes. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1859,8 +1859,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "Angular Timeline A responsive, data-driven vertical timeline library for Angular. JavaScript (Angular)",
+              "title": "Angular Timeline",
+              "description": "A responsive, data-driven vertical timeline library for Angular. JavaScript (Angular)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1896,8 +1896,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "React-Beautiful-DnD A beautiful and accessible drag-and-drop library for lists, built on React. Supports vertical, horizontal, and multi-drag features. JavaScript (React)",
+              "title": "React-Beautiful-DnD",
+              "description": "A beautiful and accessible drag-and-drop library for lists, built on React. Supports vertical, horizontal, and multi-drag features. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1911,8 +1911,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Sortable An open-source JavaScript library for reorderable drag-and-drop lists. Supports multi-drag and swap thresholds. JavaScript",
+              "title": "Sortable",
+              "description": "An open-source JavaScript library for reorderable drag-and-drop lists. Supports multi-drag and swap thresholds. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1926,8 +1926,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Dragula A simple JavaScript library providing an easy API for drag and drop, allowing element movement between containers. JavaScript",
+              "title": "Dragula",
+              "description": "A simple JavaScript library providing an easy API for drag and drop, allowing element movement between containers. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1941,8 +1941,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "React-DnD A set of React utilities for building complex drag-and-drop interfaces, keeping components decoupled. JavaScript (React)",
+              "title": "React-DnD",
+              "description": "A set of React utilities for building complex drag-and-drop interfaces, keeping components decoupled. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1956,8 +1956,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "vue.draggable.next A Vue-based drag and drop component, compatible with Vue 3 and based on Sortable.js. JavaScript (Vue)",
+              "title": "vue.draggable.next",
+              "description": "A Vue-based drag and drop component, compatible with Vue 3 and based on Sortable.js. JavaScript (Vue)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,8 +1971,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "DropZone A library to create drag-and-drop file upload interfaces, with file preview and upload progress features. JavaScript",
+              "title": "DropZone",
+              "description": "A library to create drag-and-drop file upload interfaces, with file preview and upload progress features. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1986,8 +1986,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "React-Grid-Layout A draggable and resizable grid layout library for React, supporting auto-packing and responsive breakpoints. JavaScript (React)",
+              "title": "React-Grid-Layout",
+              "description": "A draggable and resizable grid layout library for React, supporting auto-packing and responsive breakpoints. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1996,13 +1996,13 @@
                 "last_commit": "2026-08-07T14:05:10Z",
                 "owner": "react-grid-layout",
                 "repo": "react-grid-layout",
-                "stars": 22395
+                "stars": 22396
               }
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "Draggable An open-source library offering a custom drag-and-drop experience by abstracting native browser events. JavaScript",
+              "title": "Draggable",
+              "description": "An open-source library offering a custom drag-and-drop experience by abstracting native browser events. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2016,8 +2016,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "Interact.JS Enables resizing and multi-touch gestures for drag and drop, with a simple, flexible API. JavaScript",
+              "title": "Interact.JS",
+              "description": "Enables resizing and multi-touch gestures for drag and drop, with a simple, flexible API. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2031,8 +2031,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Ng-Sortable An Angular-based drag-and-drop library supporting sortable and draggable features on touch devices. JavaScript (Angular)",
+              "title": "Ng-Sortable",
+              "description": "An Angular-based drag-and-drop library supporting sortable and draggable features on touch devices. JavaScript (Angular)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2046,8 +2046,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "MoveAble An advanced library with functionalities beyond drag-and-drop, like resizing, wrapping, pinching, and grouping. JavaScript",
+              "title": "MoveAble",
+              "description": "An advanced library with functionalities beyond drag-and-drop, like resizing, wrapping, pinching, and grouping. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2061,8 +2061,8 @@
             },
             {
               "node_type": "item",
-              "title": "12.",
-              "description": "DragSelect A lightweight drag-and-drop library with no dependencies, supporting module exports and ES6 modules. JavaScript",
+              "title": "DragSelect",
+              "description": "A lightweight drag-and-drop library with no dependencies, supporting module exports and ES6 modules. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2076,8 +2076,8 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "DFlex Designed to add drag-and-drop interfaces in modern apps, built on Vanilla JavaScript with a transformation mechanism. JavaScript",
+              "title": "DFlex",
+              "description": "Designed to add drag-and-drop interfaces in modern apps, built on Vanilla JavaScript with a transformation mechanism. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2113,8 +2113,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Just-validate A modern, simple, TypeScript-based library with no dependencies. TypeScript",
+              "title": "Just-validate",
+              "description": "A modern, simple, TypeScript-based library with no dependencies. TypeScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2128,8 +2128,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Parsley.js An open-source library offering robust form validation, implementable on both backend and frontend. JavaScript",
+              "title": "Parsley.js",
+              "description": "An open-source library offering robust form validation, implementable on both backend and frontend. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2143,8 +2143,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Jquery Validation A simple client-side validation plugin with extensive customization options. JavaScript",
+              "title": "Jquery Validation",
+              "description": "A simple client-side validation plugin with extensive customization options. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,8 +2158,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "JqBootstrapValidation An open-source framework for Bootstrap forms, offering a variety of validators. JavaScript",
+              "title": "JqBootstrapValidation",
+              "description": "An open-source framework for Bootstrap forms, offering a variety of validators. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2173,8 +2173,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Hyperform Implements the HTML5 form validation API, substituting native methods with custom events and hooks. JavaScript",
+              "title": "Hyperform",
+              "description": "Implements the HTML5 form validation API, substituting native methods with custom events and hooks. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2188,8 +2188,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "v8n Fluent and simple validation library usable in any context with a readable API. JavaScript",
+              "title": "v8n",
+              "description": "Fluent and simple validation library usable in any context with a readable API. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2203,8 +2203,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "revalidate Allows creating and composing small validation functions for complex validations. JavaScript",
+              "title": "revalidate",
+              "description": "Allows creating and composing small validation functions for complex validations. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2218,8 +2218,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Pristine A micro-library for JavaScript form validation, no dependencies, and supports built-in validators. JavaScript",
+              "title": "Pristine",
+              "description": "A micro-library for JavaScript form validation, no dependencies, and supports built-in validators. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,8 +2233,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "bouncer.js A lightweight library augmenting native HTML5 form validation, supports after-submit validation. JavaScript",
+              "title": "bouncer.js",
+              "description": "A lightweight library augmenting native HTML5 form validation, supports after-submit validation. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2248,14 +2248,14 @@
             },
             {
               "node_type": "item",
-              "title": "12.",
-              "description": "React Hook Form An open-source form validation library for form state management built with performance, UX, and DX in mind. JavaScript (React)",
+              "title": "React Hook Form",
+              "description": "An open-source form validation library for form state management built with performance, UX, and DX in mind. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:05:11Z",
+                "last_commit": "2026-08-25T02:40:03Z",
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
                 "stars": 44832
@@ -2263,8 +2263,8 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "React Final Form A flexible and efficient form validation library for React, focusing on performance and simplicity. JavaScript (React)",
+              "title": "React Final Form",
+              "description": "A flexible and efficient form validation library for React, focusing on performance and simplicity. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2300,8 +2300,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Hotel Datepicker A pure Javascript date range picker specifically designed for hotel-based projects. Supports all modern browsers. JavaScript",
+              "title": "Hotel Datepicker",
+              "description": "A pure Javascript date range picker specifically designed for hotel-based projects. Supports all modern browsers. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2315,8 +2315,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Date Range Picker JavaScript Date Range, Date and Time Picker Component with features like limiting the selectable date range, localizable strings and date formats, a single date picker, time picker, and many more. JavaScript",
+              "title": "Date Range Picker",
+              "description": "JavaScript Date Range, Date and Time Picker Component with features like limiting the selectable date range, localizable strings and date formats, a single date picker, time picker, and many more. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,8 +2330,8 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "Pickadate.js The mobile-friendly, responsive, and lightweight jQuery date & time input picker. JavaScript",
+              "title": "Pickadate.js",
+              "description": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2345,8 +2345,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Airbnb react dates Best open-source React datepickers on the market with a very clear and intuitive design. JavaScript (React)",
+              "title": "Airbnb react dates",
+              "description": "Best open-source React datepickers on the market with a very clear and intuitive design. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2360,8 +2360,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "React-datepicker A simple and reusable datepicker component for React. JavaScript (React)",
+              "title": "React-datepicker",
+              "description": "A simple and reusable datepicker component for React. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2375,8 +2375,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "React-DayPicker DayPicker is a customizable date picker component for React, with native TypeScript support. JavaScript (React)",
+              "title": "React-DayPicker",
+              "description": "DayPicker is a customizable date picker component for React, with native TypeScript support. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,8 +2390,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "React-widgets A set of polished, extensible, and accessible form inputs built for React that can be customized as needed. JavaScript (React)",
+              "title": "React-widgets",
+              "description": "A set of polished, extensible, and accessible form inputs built for React that can be customized as needed. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2405,8 +2405,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "V-calendar An elegant calendar and datepicker with wide range color options and useful features. JavaScript (Vue)",
+              "title": "V-calendar",
+              "description": "An elegant calendar and datepicker with wide range color options and useful features. JavaScript (Vue)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2415,13 +2415,13 @@
                 "last_commit": "2024-08-07T08:45:03Z",
                 "owner": "nathanreyes",
                 "repo": "v-calendar",
-                "stars": 4517
+                "stars": 4518
               }
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "Vuejs-DatePicker A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. JavaScript (Vue)",
+              "title": "Vuejs-DatePicker",
+              "description": "A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. JavaScript (Vue)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2435,8 +2435,8 @@
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Flatpickr A lightweight, powerful javascript datetimepicker with no dependencies. JavaScript",
+              "title": "Flatpickr",
+              "description": "A lightweight, powerful javascript datetimepicker with no dependencies. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2450,8 +2450,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "Tempus Dominus A powerful and robust date time picker for javascript written with modern browsers in mind and is written in typescript with no dependencies of Bootstrap, momentjs and jQuery. JavaScript",
+              "title": "Tempus Dominus",
+              "description": "A powerful and robust date time picker for javascript written with modern browsers in mind and is written in typescript with no dependencies of Bootstrap, momentjs and jQuery. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2465,8 +2465,8 @@
             },
             {
               "node_type": "item",
-              "title": "12.",
-              "description": "React Infinite Calendar An open-source date picker with Infinite scrolling, localization, range selection, themes, keyboard support, and more. JavaScript (React)",
+              "title": "React Infinite Calendar",
+              "description": "An open-source date picker with Infinite scrolling, localization, range selection, themes, keyboard support, and more. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2480,8 +2480,8 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "Bootstrap-datepicker An open-source Bootstrap Date picker with advanced features like keyboard navigation, autoclose, today highlight, google, and more. Bootstrap",
+              "title": "Bootstrap-datepicker",
+              "description": "An open-source Bootstrap Date picker with advanced features like keyboard navigation, autoclose, today highlight, google, and more. Bootstrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2495,8 +2495,8 @@
             },
             {
               "node_type": "item",
-              "title": "14.",
-              "description": "Pikaday A JavaScript datepicker with no dependencies. Lightweight, powerful, and customizable. JavaScript",
+              "title": "Pikaday",
+              "description": "A JavaScript datepicker with no dependencies. Lightweight, powerful, and customizable. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2510,8 +2510,8 @@
             },
             {
               "node_type": "item",
-              "title": "15.",
-              "description": "Day.js Fast 2kB alternative to Moment.js with the same modern API. JavaScript",
+              "title": "Day.js",
+              "description": "Fast 2kB alternative to Moment.js with the same modern API. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2520,7 +2520,7 @@
                 "last_commit": "2026-08-18T04:15:17Z",
                 "owner": "iamkun",
                 "repo": "dayjs",
-                "stars": 48668
+                "stars": 48669
               }
             },
             {
@@ -2547,23 +2547,23 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Three.js A JavaScript 3D library used to create interactive 3D graphics within web browsers. Features WebGL-based rendering, built-in geometries, shaders, camera control, and more. JavaScript",
+              "title": "Three.js",
+              "description": "A JavaScript 3D library used to create interactive 3D graphics within web browsers. Features WebGL-based rendering, built-in geometries, shaders, camera control, and more. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:14:45Z",
+                "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114757
+                "stars": 114766
               }
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "React-three-fiber A React renderer for Three.js. It allows creation of 3D scenes using React components, with features like declarative 3D rendering and performance optimization. JavaScript",
+              "title": "React-three-fiber",
+              "description": "A React renderer for Three.js. It allows creation of 3D scenes using React components, with features like declarative 3D rendering and performance optimization. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2572,13 +2572,13 @@
                 "last_commit": "2026-08-25T00:24:42Z",
                 "owner": "pmndrs",
                 "repo": "react-three-fiber",
-                "stars": 31787
+                "stars": 31788
               }
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Aframe A web framework for building virtual reality experiences using HTML. Supports entity-component architecture, high performance, and cross-platform compatibility. JavaScript",
+              "title": "Aframe",
+              "description": "A web framework for building virtual reality experiences using HTML. Supports entity-component architecture, high performance, and cross-platform compatibility. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2592,14 +2592,14 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Cesium An open JavaScript library for 3D globes and 2D maps. Features 3D visualization, support for various geometries, and integration with other JavaScript frameworks. JavaScript",
+              "title": "Cesium",
+              "description": "An open JavaScript library for 3D globes and 2D maps. Features 3D visualization, support for various geometries, and integration with other JavaScript frameworks. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 3606738,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T21:26:16Z",
+                "last_commit": "2026-08-25T05:13:02Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
                 "stars": 15596
@@ -2607,8 +2607,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "vanilla-tilt.js A library for adding tilt effects to HTML elements. Lightweight and offers smooth animations with gyroscope support. JavaScript",
+              "title": "vanilla-tilt.js",
+              "description": "A library for adding tilt effects to HTML elements. Lightweight and offers smooth animations with gyroscope support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,23 +2622,23 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "PlayCanvas A WebGL game engine that allows the creation of interactive 3D content directly in the browser. It features a visual development environment and supports real-time collaboration. JavaScript",
+              "title": "PlayCanvas",
+              "description": "A WebGL game engine that allows the creation of interactive 3D content directly in the browser. It features a visual development environment and supports real-time collaboration. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:58:29Z",
+                "last_commit": "2026-08-25T02:31:20Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16552
+                "stars": 16554
               }
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Whitestorm.js A framework for creating 3D web applications and games. It provides physics support, a modular structure, and integration with various rendering engines. JavaScript",
+              "title": "Whitestorm.js",
+              "description": "A framework for creating 3D web applications and games. It provides physics support, a modular structure, and integration with various rendering engines. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2652,8 +2652,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "Physijs A physics plugin for Three.js that enables the use of physics simulations in web applications. It supports features like collision detection, gravity, and constraints. JavaScript",
+              "title": "Physijs",
+              "description": "A physics plugin for Three.js that enables the use of physics simulations in web applications. It supports features like collision detection, gravity, and constraints. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2667,8 +2667,8 @@
             },
             {
               "node_type": "item",
-              "title": "12.",
-              "description": "Oimo.js A lightweight physics engine for JavaScript that can be used with 3D libraries like Three.js. It supports rigid body dynamics, collision detection, and more. JavaScript",
+              "title": "Oimo.js",
+              "description": "A lightweight physics engine for JavaScript that can be used with 3D libraries like Three.js. It supports rigid body dynamics, collision detection, and more. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2682,8 +2682,8 @@
             },
             {
               "node_type": "item",
-              "title": "13.",
-              "description": "TWEEN.js A simple JavaScript library for tweening and animating HTML5 and JavaScript properties. It can be used to create smooth animations in 3D scenes. JavaScript",
+              "title": "TWEEN.js",
+              "description": "A simple JavaScript library for tweening and animating HTML5 and JavaScript properties. It can be used to create smooth animations in 3D scenes. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2697,8 +2697,8 @@
             },
             {
               "node_type": "item",
-              "title": "15.",
-              "description": "Regl A functional WebGL library for creating high-performance, functional graphics applications and games. It provides a minimalistic API for efficient rendering. JavaScript",
+              "title": "Regl",
+              "description": "A functional WebGL library for creating high-performance, functional graphics applications and games. It provides a minimalistic API for efficient rendering. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2712,8 +2712,8 @@
             },
             {
               "node_type": "item",
-              "title": "16.",
-              "description": "Matter.js A 2D physics engine for JavaScript. Offers features like collision detection, rigid body dynamics, and various physics simulations for games and simulations. JavaScript",
+              "title": "Matter.js",
+              "description": "A 2D physics engine for JavaScript. Offers features like collision detection, rigid body dynamics, and various physics simulations for games and simulations. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2727,23 +2727,23 @@
             },
             {
               "node_type": "item",
-              "title": "17.",
-              "description": "Three.js A popular 3D library for creating interactive 3D graphics. Features include WebGL-based rendering, camera control, and extensive community support. JavaScript",
+              "title": "Three.js",
+              "description": "A popular 3D library for creating interactive 3D graphics. Features include WebGL-based rendering, camera control, and extensive community support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:14:45Z",
+                "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114757
+                "stars": 114766
               }
             },
             {
               "node_type": "item",
-              "title": "18.",
-              "description": "Plank.js A physics simulation library, providing features like rigid body dynamics, collision detection, and joints and constraints. JavaScript",
+              "title": "Plank.js",
+              "description": "A physics simulation library, providing features like rigid body dynamics, collision detection, and joints and constraints. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2752,19 +2752,19 @@
                 "last_commit": "2026-04-07T12:29:53Z",
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5270
+                "stars": 5271
               }
             },
             {
               "node_type": "item",
-              "title": "19.",
-              "description": "Melon.js A game engine with ES6 class inheritance, offering 2D sprite-based graphics, WebGL rendering, and audio support. JavaScript",
+              "title": "Melon.js",
+              "description": "A game engine with ES6 class inheritance, offering 2D sprite-based graphics, WebGL rendering, and audio support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1597789,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T04:12:09Z",
+                "last_commit": "2026-08-25T03:03:08Z",
                 "owner": "melonjs",
                 "repo": "melonJS",
                 "stars": 6375
@@ -2772,8 +2772,8 @@
             },
             {
               "node_type": "item",
-              "title": "21.",
-              "description": "Stage.js A 2D HTML5 JavaScript library for game development, featuring a DOM-like tree data model and rendering cycle management. JavaScript",
+              "title": "Stage.js",
+              "description": "A 2D HTML5 JavaScript library for game development, featuring a DOM-like tree data model and rendering cycle management. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2787,8 +2787,8 @@
             },
             {
               "node_type": "item",
-              "title": "22.",
-              "description": "Kaboom.js A simple, flexible library for 2D games, offering features like sprite animations, input handling, and physics simulation. JavaScript",
+              "title": "Kaboom.js",
+              "description": "A simple, flexible library for 2D games, offering features like sprite animations, input handling, and physics simulation. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2802,8 +2802,8 @@
             },
             {
               "node_type": "item",
-              "title": "24.",
-              "description": "Cannon.js A lightweight 3D physics engine, providing rigid body dynamics, collision detection, and various physical simulations. JavaScript",
+              "title": "Cannon.js",
+              "description": "A lightweight 3D physics engine, providing rigid body dynamics, collision detection, and various physical simulations. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,8 +2839,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "Vanilla-calendar.js A lightweight and simple calendar plugin written in pure JavaScript. Compatible with multiple frameworks and offers various calendar types and methods. JavaScript",
+              "title": "Vanilla-calendar.js",
+              "description": "A lightweight and simple calendar plugin written in pure JavaScript. Compatible with multiple frameworks and offers various calendar types and methods. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2876,8 +2876,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "TypeHead/BloodHound A flexible JavaScript library for building robust typeahead, inspired by Twitter's autocomplete search functionality. It consists of two components: Typehead for the autocomplete interface and BloodHound as the suggestion engine. JavaScript",
+              "title": "TypeHead/BloodHound",
+              "description": "A flexible JavaScript library for building robust typeahead, inspired by Twitter's autocomplete search functionality. It consists of two components: Typehead for the autocomplete interface and BloodHound as the suggestion engine. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2891,8 +2891,8 @@
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "Fuse.Js An open-source lightweight fuzzy-search built on JavaScript with zero dependencies. Supports logical query operators and has no DOM dependencies, making it suitable for backend use as well. JavaScript",
+              "title": "Fuse.Js",
+              "description": "An open-source lightweight fuzzy-search built on JavaScript with zero dependencies. Supports logical query operators and has no DOM dependencies, making it suitable for backend use as well. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2906,8 +2906,8 @@
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "FlexSearch The fastest and most flexible full-text JavaScript fuzzy search library with zero dependencies. Offers features like multi-field search, phonetic transformations, partial matching, and uses a scoring algorithm called \"contextual index.\" JavaScript",
+              "title": "FlexSearch",
+              "description": "The fastest and most flexible full-text JavaScript fuzzy search library with zero dependencies. Offers features like multi-field search, phonetic transformations, partial matching, and uses a scoring algorithm called \"contextual index.\" JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2921,8 +2921,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Match Sorter A simple library for sorting and filtering arrays in JavaScript. It ranks items based on sensible criteria for a better user experience. JavaScript",
+              "title": "Match Sorter",
+              "description": "A simple library for sorting and filtering arrays in JavaScript. It ranks items based on sensible criteria for a better user experience. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2936,8 +2936,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "uFuzzy A fuzzy search library that matches short search phrases against a list of short-to-medium phrases, suitable for list filtering and auto-complete/suggest features. JavaScript",
+              "title": "uFuzzy",
+              "description": "A fuzzy search library that matches short search phrases against a list of short-to-medium phrases, suitable for list filtering and auto-complete/suggest features. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2951,8 +2951,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "Fuzzyset.JS A fuzzy string set for JavaScript that performs full-text search to determine misspellings and approximate string matching. JavaScript",
+              "title": "Fuzzyset.JS",
+              "description": "A fuzzy string set for JavaScript that performs full-text search to determine misspellings and approximate string matching. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2966,8 +2966,8 @@
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "Horsey A progressive and customizable autocomplete library. It is fast, easy to use, and can be integrated into any MVC framework without significant codebase addition. JavaScript",
+              "title": "Horsey",
+              "description": "A progressive and customizable autocomplete library. It is fast, easy to use, and can be integrated into any MVC framework without significant codebase addition. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2981,8 +2981,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "FZF for JavaScript A port of the command line-based Fuzzy Search Library FZF, built using Golang, to JavaScript. Offers features like HighlightChars, Case sensitivity, and non-string list support. JavaScript",
+              "title": "FZF for JavaScript",
+              "description": "A port of the command line-based Fuzzy Search Library FZF, built using Golang, to JavaScript. Offers features like HighlightChars, Case sensitivity, and non-string list support. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2991,13 +2991,13 @@
                 "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82638
+                "stars": 82639
               }
             },
             {
               "node_type": "item",
-              "title": "10.",
-              "description": "Bripkens A JavaScript library for approximate (fuzzy) string matching. It allows sub-term matches and character sequence highlighting before and after the text. JavaScript",
+              "title": "Bripkens",
+              "description": "A JavaScript library for approximate (fuzzy) string matching. It allows sub-term matches and character sequence highlighting before and after the text. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3011,8 +3011,8 @@
             },
             {
               "node_type": "item",
-              "title": "11.",
-              "description": "FuzzBunny An open-source, fast, minified, and memory-efficient fuzzy string searching/matching/highlighting library. Works well in browser environments and Node.js, with a straightforward API for easy integration. JavaScript",
+              "title": "FuzzBunny",
+              "description": "An open-source, fast, minified, and memory-efficient fuzzy string searching/matching/highlighting library. Works well in browser environments and Node.js, with a straightforward API for easy integration. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3048,8 +3048,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17.",
-              "description": "wysihtml5 An open-source rich text editor based on HTML5, offering advanced features and a flexible approach to content editing. JavaScript",
+              "title": "wysihtml5",
+              "description": "An open-source rich text editor based on HTML5, offering advanced features and a flexible approach to content editing. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3085,8 +3085,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "1.",
-              "description": "Blueprint BluePrint Table is a React-based open-source UI tool kit for the web. It can easily handle complex data-dense desktop applications and build an easy interface JavaScript (React)",
+              "title": "Blueprint",
+              "description": "BluePrint Table is a React-based open-source UI tool kit for the web. It can easily handle complex data-dense desktop applications and build an easy interface JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3095,13 +3095,13 @@
                 "last_commit": "2026-08-24T16:04:32Z",
                 "owner": "palantir",
                 "repo": "blueprint",
-                "stars": 22007
+                "stars": 22006
               }
             },
             {
               "node_type": "item",
-              "title": "2.",
-              "description": "DataTables An extensive plugin that is used to provide multiple functionalities to your table like sorting, filtering, pagination, and custom theming. JavaScript",
+              "title": "DataTables",
+              "description": "An extensive plugin that is used to provide multiple functionalities to your table like sorting, filtering, pagination, and custom theming. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3115,23 +3115,23 @@
             },
             {
               "node_type": "item",
-              "title": "3.",
-              "description": "TanStack Table An Open source JavaScript Table Library to create powerful tables & data grids. JavaScript",
+              "title": "TanStack Table",
+              "description": "An Open source JavaScript Table Library to create powerful tables & data grids. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 71487058,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:38:47Z",
+                "last_commit": "2026-08-25T02:18:18Z",
                 "owner": "TanStack",
                 "repo": "table",
-                "stars": 28375
+                "stars": 28376
               }
             },
             {
               "node_type": "item",
-              "title": "4.",
-              "description": "Handsontable JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡ JavaScript",
+              "title": "Handsontable",
+              "description": "JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡ JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3145,8 +3145,8 @@
             },
             {
               "node_type": "item",
-              "title": "5.",
-              "description": "Bootstrap Table An extended table to integration with some of the most widely used CSS frameworks. Bootstrap",
+              "title": "Bootstrap Table",
+              "description": "An extended table to integration with some of the most widely used CSS frameworks. Bootstrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3160,8 +3160,8 @@
             },
             {
               "node_type": "item",
-              "title": "6.",
-              "description": "List.js The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. JavaScript",
+              "title": "List.js",
+              "description": "The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3175,8 +3175,8 @@
             },
             {
               "node_type": "item",
-              "title": "7.",
-              "description": "AG-Grid The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript JavaScript",
+              "title": "AG-Grid",
+              "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3185,13 +3185,13 @@
                 "last_commit": "2026-08-24T16:17:23Z",
                 "owner": "ag-grid",
                 "repo": "ag-grid",
-                "stars": 15561
+                "stars": 15562
               }
             },
             {
               "node_type": "item",
-              "title": "8.",
-              "description": "Clusterize.js Tiny vanilla JS plugin to display large data sets easily JavaScript",
+              "title": "Clusterize.js",
+              "description": "Tiny vanilla JS plugin to display large data sets easily JavaScript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3205,8 +3205,8 @@
             },
             {
               "node_type": "item",
-              "title": "9.",
-              "description": "Material Table Datatable for React based on material-ui's table with additional features. JavaScript (React)",
+              "title": "Material Table",
+              "description": "Datatable for React based on material-ui's table with additional features. JavaScript (React)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3243,7 +3243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:25:47.175Z",
+    "last_updated": "2026-08-25T05:17:43.162Z",
     "original_repository": "themeselection/Awesome-JavaScript-Libraries",
     "original_repository_id": 722090566,
     "original_repository_sha": "74b3c785855fd70838ed5587ac32b2af0ae214d1",
