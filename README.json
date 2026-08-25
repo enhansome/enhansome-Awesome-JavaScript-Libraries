@@ -510,7 +510,7 @@
                 "last_commit": "2025-08-16T12:19:29Z",
                 "owner": "timolins",
                 "repo": "react-hot-toast",
-                "stars": 10970
+                "stars": 10969
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "last_commit": "2026-08-25T04:59:51Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27516
+                "stars": 27517
               }
             },
             {
@@ -1369,7 +1369,7 @@
                 "last_commit": "2026-08-24T22:41:27Z",
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14744
+                "stars": 14743
               }
             },
             {
@@ -1518,7 +1518,7 @@
                 "last_commit": "2022-06-04T00:38:39Z",
                 "owner": "rstacruz",
                 "repo": "nprogress",
-                "stars": 26380
+                "stars": 26381
               }
             },
             {
@@ -1921,7 +1921,7 @@
                 "last_commit": "2026-03-24T22:02:22Z",
                 "owner": "SortableJS",
                 "repo": "Sortable",
-                "stars": 31170
+                "stars": 31171
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-08-07T14:05:10Z",
                 "owner": "react-grid-layout",
                 "repo": "react-grid-layout",
-                "stars": 22396
+                "stars": 22397
               }
             },
             {
@@ -2370,7 +2370,7 @@
                 "last_commit": "2026-04-02T08:36:28Z",
                 "owner": "Hacker0x01",
                 "repo": "react-datepicker",
-                "stars": 8383
+                "stars": 8384
               }
             },
             {
@@ -2520,7 +2520,7 @@
                 "last_commit": "2026-08-18T04:15:17Z",
                 "owner": "iamkun",
                 "repo": "dayjs",
-                "stars": 48669
+                "stars": 48668
               }
             },
             {
@@ -2602,7 +2602,7 @@
                 "last_commit": "2026-08-25T05:13:02Z",
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15596
+                "stars": 15597
               }
             },
             {
@@ -2991,7 +2991,7 @@
                 "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82639
+                "stars": 82640
               }
             },
             {
@@ -3137,7 +3137,7 @@
                 "archived": false,
                 "id": 1790564,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T17:05:46Z",
+                "last_commit": "2026-08-25T06:32:40Z",
                 "owner": "handsontable",
                 "repo": "handsontable",
                 "stars": 22028
@@ -3243,7 +3243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:17:43.162Z",
+    "last_updated": "2026-08-25T06:34:13.138Z",
     "original_repository": "themeselection/Awesome-JavaScript-Libraries",
     "original_repository_id": 722090566,
     "original_repository_sha": "74b3c785855fd70838ed5587ac32b2af0ae214d1",
