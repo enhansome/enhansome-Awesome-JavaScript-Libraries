@@ -1421,7 +1421,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35401,
+                "stars": 35400,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -4784,7 +4784,7 @@
                 "open_issues": 51,
                 "owner": "pmndrs",
                 "repo": "react-three-fiber",
-                "stars": 31821,
+                "stars": 31822,
                 "topics": [
                   "3d",
                   "animation",
@@ -6088,7 +6088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:58.685Z",
+    "last_updated": "2026-08-29T05:13:49.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
