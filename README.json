@@ -986,11 +986,11 @@
                 "id": 28748255,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T12:58:23Z",
+                "last_commit": "2026-09-18T12:53:21Z",
                 "open_issues": 4,
                 "owner": "sweetalert2",
                 "repo": "sweetalert2",
-                "stars": 18102,
+                "stars": 18103,
                 "topics": [
                   "accessible",
                   "alert",
@@ -1028,7 +1028,7 @@
                 "open_issues": 103,
                 "owner": "fkhadra",
                 "repo": "react-toastify",
-                "stars": 13434,
+                "stars": 13436,
                 "topics": [
                   "javascript",
                   "notification",
@@ -1057,7 +1057,7 @@
                 "open_issues": 138,
                 "owner": "timolins",
                 "repo": "react-hot-toast",
-                "stars": 10971,
+                "stars": 10972,
                 "topics": [
                   "notifications",
                   "react",
@@ -1246,7 +1246,7 @@
                 "id": 416856736,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T22:50:41Z",
+                "last_commit": "2026-09-18T21:29:14Z",
                 "open_issues": 0,
                 "owner": "add2cal",
                 "repo": "add-to-calendar-button",
@@ -1292,7 +1292,7 @@
                 "open_issues": 6,
                 "owner": "Spyware007",
                 "repo": "Animating-Buttons",
-                "stars": 237,
+                "stars": 235,
                 "topics": [
                   "animated",
                   "animated-button",
@@ -1365,7 +1365,7 @@
                 "open_issues": 390,
                 "owner": "ganlanyuan",
                 "repo": "tiny-slider",
-                "stars": 5324,
+                "stars": 5325,
                 "topics": [
                   "carousel",
                   "slider"
@@ -1421,7 +1421,7 @@
                 "open_issues": 129,
                 "owner": "alvarotrigo",
                 "repo": "fullPage.js",
-                "stars": 35387,
+                "stars": 35385,
                 "topics": [
                   "fullpage",
                   "fullscreen",
@@ -1511,7 +1511,7 @@
                 "open_issues": 108,
                 "owner": "kidjp85",
                 "repo": "react-id-swiper",
-                "stars": 1477,
+                "stars": 1476,
                 "topics": [
                   "idangerous",
                   "react-carousel",
@@ -1542,7 +1542,7 @@
                 "open_issues": 31,
                 "owner": "FormidableLabs",
                 "repo": "react-swipeable",
-                "stars": 2112,
+                "stars": 2113,
                 "topics": [
                   "hook",
                   "mobile",
@@ -1639,7 +1639,7 @@
                 "open_issues": 59,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12303,
+                "stars": 12304,
                 "topics": [
                   "accessible",
                   "autocomplete",
@@ -1702,11 +1702,11 @@
                 "id": 28748255,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T12:58:23Z",
+                "last_commit": "2026-09-18T12:53:21Z",
                 "open_issues": 4,
                 "owner": "sweetalert2",
                 "repo": "sweetalert2",
-                "stars": 18102,
+                "stars": 18103,
                 "topics": [
                   "accessible",
                   "alert",
@@ -1744,7 +1744,7 @@
                 "open_issues": 54,
                 "owner": "HubSpot",
                 "repo": "vex",
-                "stars": 6871,
+                "stars": 6870,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -2134,10 +2134,10 @@
                 "language": "Shell",
                 "license": "ISC",
                 "last_commit": "2026-05-28T14:43:01Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113741,
+                "stars": 113744,
                 "topics": [
                   "chart",
                   "charts",
@@ -2162,10 +2162,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T14:56:56Z",
-                "open_issues": 580,
+                "open_issues": 582,
                 "owner": "chartjs",
                 "repo": "Chart.js",
-                "stars": 67697,
+                "stars": 67704,
                 "topics": [
                   "canvas",
                   "chart",
@@ -2189,7 +2189,7 @@
                 "id": 17575535,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:00:04Z",
+                "last_commit": "2026-09-18T23:03:35Z",
                 "open_issues": 252,
                 "owner": "chartist-js",
                 "repo": "chartist",
@@ -2220,7 +2220,7 @@
                 "open_issues": 301,
                 "owner": "apexcharts",
                 "repo": "apexcharts.js",
-                "stars": 15157,
+                "stars": 15158,
                 "topics": [
                   "charts",
                   "data-visualization",
@@ -2246,10 +2246,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-17T01:06:09Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "naver",
                 "repo": "billboard.js",
-                "stars": 6009,
+                "stars": 6010,
                 "topics": [
                   "canvas",
                   "charting-library",
@@ -2302,7 +2302,7 @@
                 "open_issues": 147,
                 "owner": "frappe",
                 "repo": "charts",
-                "stars": 15081,
+                "stars": 15082,
                 "topics": [
                   "chart",
                   "graph",
@@ -2363,11 +2363,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T20:48:27Z",
-                "open_issues": 445,
+                "last_commit": "2026-09-18T19:17:59Z",
+                "open_issues": 446,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27566,
+                "stars": 27567,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -2399,7 +2399,7 @@
                 "open_issues": 91,
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11239,
+                "stars": 11240,
                 "topics": [
                   "charts",
                   "d3",
@@ -2449,7 +2449,7 @@
                 "id": 58237167,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:17:24Z",
+                "last_commit": "2026-09-18T21:07:51Z",
                 "open_issues": 111,
                 "owner": "reactchartjs",
                 "repo": "react-chartjs-2",
@@ -2487,7 +2487,7 @@
                 "open_issues": 51,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14098,
+                "stars": 14099,
                 "topics": [
                   "canvas",
                   "charts",
@@ -2517,7 +2517,7 @@
                 "open_issues": 29,
                 "owner": "apertureless",
                 "repo": "vue-chartjs",
-                "stars": 5716,
+                "stars": 5717,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -2592,7 +2592,7 @@
                 "open_issues": 219,
                 "owner": "nosir",
                 "repo": "cleave.js",
-                "stars": 17858,
+                "stars": 17857,
                 "topics": [
                   "credit-card",
                   "creditcard",
@@ -2615,8 +2615,8 @@
                 "id": 926231,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:39:34Z",
-                "open_issues": 644,
+                "last_commit": "2026-09-18T13:10:50Z",
+                "open_issues": 632,
                 "owner": "RobinHerbots",
                 "repo": "Inputmask",
                 "stars": 6460,
@@ -2673,11 +2673,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-17T21:30:42Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-19T01:32:57Z",
+                "open_issues": 3,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14744,
+                "stars": 14745,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -2901,7 +2901,7 @@
                 "open_issues": 69,
                 "owner": "kimmobrunfeldt",
                 "repo": "progressbar.js",
-                "stars": 7852,
+                "stars": 7853,
                 "topics": [
                   "animation",
                   "javascript",
@@ -2926,7 +2926,7 @@
                 "open_issues": 131,
                 "owner": "rstacruz",
                 "repo": "nprogress",
-                "stars": 26368,
+                "stars": 26366,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -3168,7 +3168,7 @@
                 "open_issues": 59,
                 "owner": "wbotelhos",
                 "repo": "raty",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "rating",
                   "star",
@@ -3317,7 +3317,7 @@
                 "open_issues": 19,
                 "owner": "prabhuignoto",
                 "repo": "react-chrono",
-                "stars": 4200,
+                "stars": 4202,
                 "topics": [
                   "horizontal-timeline",
                   "javascript-timeline",
@@ -3371,7 +3371,7 @@
                 "open_issues": 303,
                 "owner": "visjs",
                 "repo": "vis-timeline",
-                "stars": 2557,
+                "stars": 2560,
                 "topics": [
                   "chart",
                   "hacktoberfest",
@@ -3397,7 +3397,7 @@
                 "open_issues": 231,
                 "owner": "NUKnightLab",
                 "repo": "TimelineJS3",
-                "stars": 3220,
+                "stars": 3221,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -3418,7 +3418,7 @@
                 "open_issues": 7,
                 "owner": "namespace-ee",
                 "repo": "react-calendar-timeline",
-                "stars": 2156,
+                "stars": 2157,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -3466,7 +3466,7 @@
                 "open_issues": 195,
                 "owner": "NUKnightLab",
                 "repo": "TimelineJS",
-                "stars": 8935,
+                "stars": 8933,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -3568,7 +3568,7 @@
                 "open_issues": 642,
                 "owner": "atlassian",
                 "repo": "react-beautiful-dnd",
-                "stars": 33928,
+                "stars": 33930,
                 "topics": [
                   "dnd",
                   "drag",
@@ -3596,7 +3596,7 @@
                 "open_issues": 527,
                 "owner": "SortableJS",
                 "repo": "Sortable",
-                "stars": 31182,
+                "stars": 31181,
                 "topics": [
                   "drag",
                   "drag-and-drop",
@@ -3657,7 +3657,7 @@
                 "open_issues": 474,
                 "owner": "react-dnd",
                 "repo": "react-dnd",
-                "stars": 21626,
+                "stars": 21629,
                 "topics": [
                   "drag-and-drop",
                   "not-the-game",
@@ -3730,7 +3730,7 @@
                 "open_issues": 60,
                 "owner": "react-grid-layout",
                 "repo": "react-grid-layout",
-                "stars": 22424,
+                "stars": 22427,
                 "topics": [
                   "drag-and-drop",
                   "es2015",
@@ -3784,7 +3784,7 @@
                 "open_issues": 95,
                 "owner": "taye",
                 "repo": "interact.js",
-                "stars": 12931,
+                "stars": 12932,
                 "topics": [
                   "drag-and-drop",
                   "drop",
@@ -3839,7 +3839,7 @@
                 "open_issues": 453,
                 "owner": "daybrush",
                 "repo": "moveable",
-                "stars": 10760,
+                "stars": 10761,
                 "topics": [
                   "draggable",
                   "groupable",
@@ -3871,7 +3871,7 @@
                 "open_issues": 13,
                 "owner": "ThibaultJanBeyer",
                 "repo": "DragSelect",
-                "stars": 767,
+                "stars": 768,
                 "topics": [
                   "drag",
                   "drag-and-drop",
@@ -3906,7 +3906,7 @@
                 "open_issues": 15,
                 "owner": "dflex-js",
                 "repo": "dflex",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": [
                   "dnd",
                   "dom-api",
@@ -4006,7 +4006,7 @@
                 "open_issues": 71,
                 "owner": "guillaumepotier",
                 "repo": "Parsley.js",
-                "stars": 8977,
+                "stars": 8976,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -4210,11 +4210,11 @@
                 "id": 174038031,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:38:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-18T20:57:53Z",
+                "open_issues": 8,
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44861,
+                "stars": 44864,
                 "topics": [
                   "dx",
                   "form-builder",
@@ -4362,7 +4362,7 @@
                 "open_issues": 315,
                 "owner": "amsul",
                 "repo": "pickadate.js",
-                "stars": 7649,
+                "stars": 7648,
                 "topics": [
                   "calendar",
                   "date",
@@ -4416,7 +4416,7 @@
                 "open_issues": 98,
                 "owner": "Hacker0x01",
                 "repo": "react-datepicker",
-                "stars": 8381,
+                "stars": 8382,
                 "topics": [
                   "date-fns",
                   "datepicker-component",
@@ -4445,7 +4445,7 @@
                 "open_issues": 14,
                 "owner": "gpbl",
                 "repo": "react-day-picker",
-                "stars": 6852,
+                "stars": 6853,
                 "topics": [
                   "calendar",
                   "calendar-component",
@@ -4524,7 +4524,7 @@
                 "open_issues": 260,
                 "owner": "charliekassel",
                 "repo": "vuejs-datepicker",
-                "stars": 2587,
+                "stars": 2588,
                 "topics": [
                   "date",
                   "date-picker",
@@ -4607,7 +4607,7 @@
                 "open_issues": 83,
                 "owner": "clauderic",
                 "repo": "react-infinite-calendar",
-                "stars": 4020,
+                "stars": 4021,
                 "topics": [
                   "calendar",
                   "component",
@@ -4680,10 +4680,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-15T11:35:36Z",
-                "open_issues": 1329,
+                "open_issues": 1333,
                 "owner": "iamkun",
                 "repo": "dayjs",
-                "stars": 48664,
+                "stars": 48668,
                 "topics": [
                   "date",
                   "date-formatting",
@@ -4746,11 +4746,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:34:42Z",
-                "open_issues": 391,
+                "last_commit": "2026-09-18T16:04:08Z",
+                "open_issues": 384,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 115616,
+                "stars": 115637,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -4784,7 +4784,7 @@
                 "open_issues": 76,
                 "owner": "pmndrs",
                 "repo": "react-three-fiber",
-                "stars": 32344,
+                "stars": 32361,
                 "topics": [
                   "3d",
                   "animation",
@@ -4812,7 +4812,7 @@
                 "open_issues": 338,
                 "owner": "aframevr",
                 "repo": "aframe",
-                "stars": 17638,
+                "stars": 17636,
                 "topics": [
                   "3d",
                   "aframe",
@@ -4850,11 +4850,11 @@
                 "id": 3606738,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T23:09:15Z",
-                "open_issues": 1656,
+                "last_commit": "2026-09-18T22:52:57Z",
+                "open_issues": 1659,
                 "owner": "CesiumGS",
                 "repo": "cesium",
-                "stars": 15747,
+                "stars": 15751,
                 "topics": [
                   "3d",
                   "3d-globe",
@@ -4885,7 +4885,7 @@
                 "open_issues": 24,
                 "owner": "micku7zu",
                 "repo": "vanilla-tilt.js",
-                "stars": 4016,
+                "stars": 4017,
                 "topics": [
                   "javascript",
                   "library",
@@ -4914,11 +4914,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:07:20Z",
-                "open_issues": 491,
+                "last_commit": "2026-09-18T18:04:39Z",
+                "open_issues": 486,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16819,
+                "stars": 16825,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -5009,7 +5009,7 @@
                 "open_issues": 49,
                 "owner": "lo-th",
                 "repo": "Oimo.js",
-                "stars": 3174,
+                "stars": 3175,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -5026,11 +5026,11 @@
                 "id": 691146,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T16:51:40Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-19T01:14:43Z",
+                "open_issues": 23,
                 "owner": "tweenjs",
                 "repo": "tween.js",
-                "stars": 10144,
+                "stars": 10143,
                 "topics": [
                   "animation",
                   "easing",
@@ -5063,7 +5063,7 @@
                 "open_issues": 127,
                 "owner": "regl-project",
                 "repo": "regl",
-                "stars": 5580,
+                "stars": 5581,
                 "topics": [
                   "javascript",
                   "regl",
@@ -5088,7 +5088,7 @@
                 "open_issues": 278,
                 "owner": "liabru",
                 "repo": "matter-js",
-                "stars": 18416,
+                "stars": 18420,
                 "topics": [
                   "canvas",
                   "javascript",
@@ -5112,11 +5112,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:34:42Z",
-                "open_issues": 391,
+                "last_commit": "2026-09-18T16:04:08Z",
+                "open_issues": 384,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 115616,
+                "stars": 115637,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -5146,11 +5146,11 @@
                 "id": 54445812,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-04-07T12:29:53Z",
+                "last_commit": "2026-09-18T21:12:38Z",
                 "open_issues": 32,
                 "owner": "piqnt",
                 "repo": "planck.js",
-                "stars": 5282,
+                "stars": 5283,
                 "topics": [
                   "2d",
                   "box2d",
@@ -5181,11 +5181,11 @@
                 "id": 1597789,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:57:20Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-18T11:03:38Z",
+                "open_issues": 20,
                 "owner": "melonjs",
                 "repo": "melonJS",
-                "stars": 6393,
+                "stars": 6397,
                 "topics": [
                   "2d-game-engine",
                   "canvas2d",
@@ -5252,7 +5252,7 @@
                 "open_issues": 54,
                 "owner": "replit",
                 "repo": "kaboom",
-                "stars": 2733,
+                "stars": 2734,
                 "topics": [
                   "fun",
                   "game",
@@ -5401,7 +5401,7 @@
                 "open_issues": 505,
                 "owner": "twitter",
                 "repo": "typeahead.js",
-                "stars": 16430,
+                "stars": 16427,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -5422,7 +5422,7 @@
                 "open_issues": 13,
                 "owner": "krisk",
                 "repo": "Fuse",
-                "stars": 20484,
+                "stars": 20486,
                 "topics": [
                   "bitap",
                   "javascript",
@@ -5448,7 +5448,7 @@
                 "open_issues": 38,
                 "owner": "nextapps-de",
                 "repo": "flexsearch",
-                "stars": 13793,
+                "stars": 13795,
                 "topics": [
                   "elasticsearch",
                   "full-text-search",
@@ -5487,7 +5487,7 @@
                 "open_issues": 5,
                 "owner": "kentcdodds",
                 "repo": "match-sorter",
-                "stars": 4106,
+                "stars": 4107,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -5508,7 +5508,7 @@
                 "open_issues": 16,
                 "owner": "leeoniya",
                 "repo": "uFuzzy",
-                "stars": 3029,
+                "stars": 3030,
                 "topics": [
                   "autocomplete",
                   "filter-list",
@@ -5587,7 +5587,7 @@
                 "open_issues": 329,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83082,
+                "stars": 83121,
                 "topics": [
                   "bash",
                   "cli",
@@ -5700,7 +5700,7 @@
                 "open_issues": 298,
                 "owner": "tiff",
                 "repo": "wysihtml5",
-                "stars": 6444,
+                "stars": 6443,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -5756,11 +5756,11 @@
                 "id": 71939872,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T00:01:37Z",
-                "open_issues": 951,
+                "last_commit": "2026-09-18T19:07:14Z",
+                "open_issues": 952,
                 "owner": "palantir",
                 "repo": "blueprint",
-                "stars": 22069,
+                "stars": 22073,
                 "topics": [
                   "blueprint",
                   "components",
@@ -5794,7 +5794,7 @@
                 "open_issues": 124,
                 "owner": "DataTables",
                 "repo": "DataTables",
-                "stars": 7397,
+                "stars": 7395,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -5815,7 +5815,7 @@
                 "open_issues": 65,
                 "owner": "TanStack",
                 "repo": "table",
-                "stars": 28435,
+                "stars": 28438,
                 "topics": [
                   "datagrid",
                   "datagrids",
@@ -5852,11 +5852,11 @@
                 "id": 1790564,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T15:41:44Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-18T19:44:59Z",
+                "open_issues": 25,
                 "owner": "handsontable",
                 "repo": "handsontable",
-                "stars": 22043,
+                "stars": 22044,
                 "topics": [
                   "angular-datagrid",
                   "angular-table",
@@ -5893,8 +5893,8 @@
                 "id": 12246785,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:00:36Z",
-                "open_issues": 204,
+                "last_commit": "2026-09-19T00:00:42Z",
+                "open_issues": 205,
                 "owner": "wenzhixin",
                 "repo": "bootstrap-table",
                 "stars": 11811,
@@ -5937,7 +5937,7 @@
                 "open_issues": 202,
                 "owner": "javve",
                 "repo": "list.js",
-                "stars": 11211,
+                "stars": 11210,
                 "topics": [
                   "easy-to-use",
                   "filters",
@@ -5963,11 +5963,11 @@
                 "id": 28407613,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T17:37:02Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-18T19:32:14Z",
+                "open_issues": 114,
                 "owner": "ag-grid",
                 "repo": "ag-grid",
-                "stars": 15601,
+                "stars": 15603,
                 "topics": [
                   "angular",
                   "angular-grid",
@@ -6088,7 +6088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:37:58.344Z",
+    "last_updated": "2026-09-19T01:42:29.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
