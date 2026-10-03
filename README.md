@@ -16,35 +16,35 @@ Building modern web applications demands the right set of tools. With an abundan
 
 ## Table of Contents
 
-[**UI Components**](https://github.com/themeselection/Awesome-JavaScript-Libraries#ui-components) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**UI Components**](https://github.com/themeselection/Awesome-JavaScript-Libraries#ui-components)
 
-* [**Accordion / Collapse**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Badges / Chips**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Notification, Snackbar and Toast**](https://github.com/themeselection/Awesome-JavaScript-Libraries#notification-snackbar-and-toast) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Buttons**](https://github.com/themeselection/Awesome-JavaScript-Libraries#buttons) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Carousel**](https://github.com/themeselection/Awesome-JavaScript-Libraries#carousels) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Dropdown**](https://github.com/themeselection/Awesome-JavaScript-Libraries#dropdown) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Modals**](https://github.com/themeselection/Awesome-JavaScript-Libraries#modals) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Navbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#navbar) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Charts and Graphs**](https://github.com/themeselection/Awesome-JavaScript-Libraries#charts-and-graphs) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Cards**](https://github.com/themeselection/Awesome-JavaScript-Libraries#formatting) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Pagination**](https://github.com/themeselection/Awesome-JavaScript-Libraries#pagination) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Progress**](https://github.com/themeselection/Awesome-JavaScript-Libraries#progress-spinners-loaders) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Rating**](https://github.com/themeselection/Awesome-JavaScript-Libraries#rating) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Menus**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Breadcrumb Navigation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Snackbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Timeline**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Tooltip**](https://github.com/themeselection/Awesome-JavaScript-Libraries#drag-and-drop) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#form-validation) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Drag and Drop**](https://github.com/themeselection/Awesome-JavaScript-Libraries#date-pickers) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Form Validation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#3d-and-games) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Date Pickers**](https://github.com/themeselection/Awesome-JavaScript-Libraries#calendar) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**3D and Games**](https://github.com/themeselection/Awesome-JavaScript-Libraries#search) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Calendar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#editors) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Editor**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table) ⭐ 78 | 🐛 2 | 📅 2023-12-11
-* [**Table**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+* [**Accordion / Collapse**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips)
+* [**Badges / Chips**](https://github.com/themeselection/Awesome-JavaScript-Libraries#badges--chips)
+* [**Notification, Snackbar and Toast**](https://github.com/themeselection/Awesome-JavaScript-Libraries#notification-snackbar-and-toast)
+* [**Buttons**](https://github.com/themeselection/Awesome-JavaScript-Libraries#buttons)
+* [**Carousel**](https://github.com/themeselection/Awesome-JavaScript-Libraries#carousels)
+* [**Dropdown**](https://github.com/themeselection/Awesome-JavaScript-Libraries#dropdown)
+* [**Modals**](https://github.com/themeselection/Awesome-JavaScript-Libraries#modals)
+* [**Navbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#navbar)
+* [**Charts and Graphs**](https://github.com/themeselection/Awesome-JavaScript-Libraries#charts-and-graphs)
+* [**Cards**](https://github.com/themeselection/Awesome-JavaScript-Libraries#formatting)
+* [**Pagination**](https://github.com/themeselection/Awesome-JavaScript-Libraries#pagination)
+* [**Progress**](https://github.com/themeselection/Awesome-JavaScript-Libraries#progress-spinners-loaders)
+* [**Rating**](https://github.com/themeselection/Awesome-JavaScript-Libraries#rating)
+* [**Menus**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs)
+* [**Breadcrumb Navigation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#breadcrumbs)
+* [**Snackbar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline)
+* [**Timeline**](https://github.com/themeselection/Awesome-JavaScript-Libraries#timeline)
+* [**Tooltip**](https://github.com/themeselection/Awesome-JavaScript-Libraries#drag-and-drop)
+* [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#form-validation)
+* [**Drag and Drop**](https://github.com/themeselection/Awesome-JavaScript-Libraries#date-pickers)
+* [**Form Validation**](https://github.com/themeselection/Awesome-JavaScript-Libraries#3d-and-games)
+* [**Date Pickers**](https://github.com/themeselection/Awesome-JavaScript-Libraries#calendar)
+* [**3D and Games**](https://github.com/themeselection/Awesome-JavaScript-Libraries#search)
+* [**Calendar**](https://github.com/themeselection/Awesome-JavaScript-Libraries#editors)
+* [**Search**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
+* [**Editor**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
+* [**Table**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table)
 
 ## UI Components
 
@@ -76,7 +76,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -112,7 +112,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -140,7 +140,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -159,7 +159,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -167,7 +167,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 | No  | Library and Component Name                                                                                               | Descriptions                                                                                                                                                 | Available in which Language |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| 1.  | [**D3.js**](https://github.com/d3/d3) ⭐ 113,799 \| 🐛 19 \| 🌐 Shell \| 📅 2026-05-28                                    | A JavaScript library for producing dynamic, interactive data visualizations in web browsers.                                                                 | JavaScript                  |
+| 1.  | [**D3.js**](https://github.com/d3/d3) ⭐ 113,800 \| 🐛 19 \| 🌐 Shell \| 📅 2026-05-28                                    | A JavaScript library for producing dynamic, interactive data visualizations in web browsers.                                                                 | JavaScript                  |
 | 2.  | [**Chart.js**](https://github.com/chartjs/Chart.js) ⭐ 67,730 \| 🐛 594 \| 🌐 JavaScript \| 📅 2026-10-02                 | A simple yet flexible JavaScript charting library for designers and developers.                                                                              | JavaScript                  |
 | 3.  | [**Plotly.js**](https://plotly.com/javascript/)                                                                          | A high-level, declarative charting library that supports interactive, publication-quality graphs online.                                                     | JavaScript                  |
 | 4.  | [**Highcharts**](https://www.highcharts.com/)                                                                            | A JavaScript charting library that makes it easy to add interactive charts to web and mobile projects.                                                       | JavaScript                  |
@@ -183,12 +183,12 @@ Building modern web applications demands the right set of tools. With an abundan
 | 14. | [**Victory**](https://github.com/FormidableLabs/victory) ⭐ 11,238 \| 🐛 92 \| 🌐 TypeScript \| 📅 2025-12-19             | A collection of composable React components for building interactive data visualizations.                                                                    | React.js                    |
 | 15. | [**React-vis**](https://github.com/uber/react-vis) ⭐ 8,786 \| 🐛 343 \| 🌐 JavaScript \| 📅 2024-12-18                   | A collection of React components to render common data visualization charts, such as line/area/bar charts, heat maps, scatterplots, contour plots, and more. | React.js                    |
 | 16. | [**react-chartjs-2**](https://github.com/jerairrest/react-chartjs-2) ⭐ 6,940 \| 🐛 111 \| 🌐 TypeScript \| 📅 2026-10-01 | React wrapper for Chart.js, a popular charting library.                                                                                                      | React.js                    |
-| 17. | [**Nivo**](https://github.com/plouc/nivo) ⭐ 14,107 \| 🐛 52 \| 🌐 TypeScript \| 📅 2026-07-21                            | Nivo provides supercharged React components to easily build dataviz apps, built on top of d3.                                                                | React                       |
+| 17. | [**Nivo**](https://github.com/plouc/nivo) ⭐ 14,106 \| 🐛 52 \| 🌐 TypeScript \| 📅 2026-07-21                            | Nivo provides supercharged React components to easily build dataviz apps, built on top of d3.                                                                | React                       |
 | 18. | [**vue-chartjs**](https://github.com/apertureless/vue-chartjs) ⭐ 5,718 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-09-15        | Vue.js wrapper for Chart.js, providing reactive charts.                                                                                                      | Vue.js                      |
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -215,7 +215,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -244,7 +244,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -272,7 +272,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -296,7 +296,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -320,7 +320,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -346,7 +346,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -354,15 +354,15 @@ Building modern web applications demands the right set of tools. With an abundan
 
 | No  | Library and Component Name                                                                                               | Descriptions                                                                                                                                                                           | Available in which Language |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1.  | [**Three.js**](https://github.com/mrdoob/three.js) ⭐ 116,175 \| 🐛 381 \| 🌐 JavaScript \| 📅 2026-10-02                 | A JavaScript 3D library used to create interactive 3D graphics within web browsers. Features WebGL-based rendering, built-in geometries, shaders, camera control, and more.            | JavaScript                  |
-| 2.  | [**React-three-fiber**](https://github.com/pmndrs/react-three-fiber) ⭐ 32,678 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-10-02 | A React renderer for Three.js. It allows creation of 3D scenes using React components, with features like declarative 3D rendering and performance optimization.                       | JavaScript                  |
+| 1.  | [**Three.js**](https://github.com/mrdoob/three.js) ⭐ 116,179 \| 🐛 381 \| 🌐 JavaScript \| 📅 2026-10-02                 | A JavaScript 3D library used to create interactive 3D graphics within web browsers. Features WebGL-based rendering, built-in geometries, shaders, camera control, and more.            | JavaScript                  |
+| 2.  | [**React-three-fiber**](https://github.com/pmndrs/react-three-fiber) ⭐ 32,680 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-10-02 | A React renderer for Three.js. It allows creation of 3D scenes using React components, with features like declarative 3D rendering and performance optimization.                       | JavaScript                  |
 | 3.  | [**Babylon.js**](https://www.babylonjs.com)                                                                              | A powerful JavaScript framework for building games and rendering engines. Offers an API for adding lights, cameras, shapes, and more, with support for advanced materials and physics. | JavaScript                  |
 | 4.  | [**Aframe**](https://github.com/aframevr/aframe) ⭐ 17,646 \| 🐛 343 \| 🌐 JavaScript \| 📅 2026-07-13                    | A web framework for building virtual reality experiences using HTML. Supports entity-component architecture, high performance, and cross-platform compatibility.                       | JavaScript                  |
 | 5.  | [**Cesium**](https://github.com/CesiumGS/cesium) ⭐ 15,791 \| 🐛 1,696 \| 🌐 JavaScript \| 📅 2026-10-03                  | An open JavaScript library for 3D globes and 2D maps. Features 3D visualization, support for various geometries, and integration with other JavaScript frameworks.                     | JavaScript                  |
 | 6.  | [**Zdog**](https://zzz.dog)                                                                                              | A 3D JavaScript engine for `<canvas>` and SVG. Offers a pseudo-3D engine with a straight-forward API and designer-friendly approach.                                                   | JavaScript                  |
 | 7.  | [**Vanta.js**](https://www.vantajs.com)                                                                                  | An open-source library for animated 3D backgrounds, compatible with various frameworks like React, Angular, and Vue. Features easy integration and interactive effects.                | JavaScript                  |
 | 8.  | [**vanilla-tilt.js**](https://github.com/micku7zu/vanilla-tilt.js) ⭐ 4,016 \| 🐛 24 \| 🌐 JavaScript \| 📅 2024-03-01    | A library for adding tilt effects to HTML elements. Lightweight and offers smooth animations with gyroscope support.                                                                   | JavaScript                  |
-| 9.  | [**PlayCanvas**](https://github.com/playcanvas/engine) ⭐ 16,972 \| 🐛 455 \| 🌐 JavaScript \| 📅 2026-10-03              | A WebGL game engine that allows the creation of interactive 3D content directly in the browser. It features a visual development environment and supports real-time collaboration.     | JavaScript                  |
+| 9.  | [**PlayCanvas**](https://github.com/playcanvas/engine) ⭐ 16,974 \| 🐛 455 \| 🌐 JavaScript \| 📅 2026-10-03              | A WebGL game engine that allows the creation of interactive 3D content directly in the browser. It features a visual development environment and supports real-time collaboration.     | JavaScript                  |
 | 10. | [**Whitestorm.js**](https://github.com/WhitestormJS/whs.js) ⭐ 6,352 \| 🐛 55 \| 🌐 JavaScript \| 📅 2025-01-01           | A framework for creating 3D web applications and games. It provides physics support, a modular structure, and integration with various rendering engines.                              | JavaScript                  |
 | 11. | [**Physijs**](https://github.com/chandlerprall/Physijs) ⭐ 2,861 \| 🐛 149 \| 🌐 JavaScript \| 📅 2022-08-01              | A physics plugin for Three.js that enables the use of physics simulations in web applications. It supports features like collision detection, gravity, and constraints.                | JavaScript                  |
 | 12. | [**Oimo.js**](https://github.com/lo-th/Oimo.js) ⭐ 3,175 \| 🐛 49 \| 🌐 JavaScript \| 📅 2021-07-08                       | A lightweight physics engine for JavaScript that can be used with 3D libraries like Three.js. It supports rigid body dynamics, collision detection, and more.                          | JavaScript                  |
@@ -370,7 +370,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 14. | [**React 3D Model Viewer**](https://github.com/react-3d/model-viewer)                                                    | A React component for rendering 3D models using Three.js. It provides an easy way to integrate 3D models into React applications.                                                      | JavaScript (React)          |
 | 15. | [**Regl**](https://github.com/regl-project/regl) ⭐ 5,584 \| 🐛 127 \| 🌐 JavaScript \| 📅 2026-09-08                     | A functional WebGL library for creating high-performance, functional graphics applications and games. It provides a minimalistic API for efficient rendering.                          | JavaScript                  |
 | 16. | [**Matter.js**](https://github.com/liabru/matter-js) ⭐ 18,438 \| 🐛 279 \| 🌐 JavaScript \| 📅 2026-09-30                | A 2D physics engine for JavaScript. Offers features like collision detection, rigid body dynamics, and various physics simulations for games and simulations.                          | JavaScript                  |
-| 17. | [**Three.js**](https://github.com/mrdoob/three.js) ⭐ 116,175 \| 🐛 381 \| 🌐 JavaScript \| 📅 2026-10-02                 | A popular 3D library for creating interactive 3D graphics. Features include WebGL-based rendering, camera control, and extensive community support.                                    | JavaScript                  |
+| 17. | [**Three.js**](https://github.com/mrdoob/three.js) ⭐ 116,179 \| 🐛 381 \| 🌐 JavaScript \| 📅 2026-10-02                 | A popular 3D library for creating interactive 3D graphics. Features include WebGL-based rendering, camera control, and extensive community support.                                    | JavaScript                  |
 | 18. | [**Plank.js**](https://github.com/shakiba/planck.js) ⭐ 5,288 \| 🐛 32 \| 🌐 TypeScript \| 📅 2026-09-22                  | A physics simulation library, providing features like rigid body dynamics, collision detection, and joints and constraints.                                                            | JavaScript                  |
 | 19. | [**Melon.js**](https://github.com/melonjs/melonJS) ⭐ 6,399 \| 🐛 20 \| 🌐 JavaScript \| 📅 2026-10-01                    | A game engine with ES6 class inheritance, offering 2D sprite-based graphics, WebGL rendering, and audio support.                                                                       | JavaScript                  |
 | 20. | [**PixiJS**](https://www.pixijs.com)                                                                                     | A 2D WebGL renderer, providing an easy-to-use API, support for texture atlases, and full scene graph.                                                                                  | JavaScript                  |
@@ -381,7 +381,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -402,7 +402,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -424,7 +424,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -453,7 +453,7 @@ Building modern web applications demands the right set of tools. With an abundan
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
@@ -463,23 +463,23 @@ Building modern web applications demands the right set of tools. With an abundan
 | -- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | 1. | [**Blueprint**](https://github.com/palantir/blueprint) ⭐ 22,114 \| 🐛 953 \| 🌐 TypeScript \| 📅 2026-10-02              | BluePrint Table is a React-based open-source UI tool kit for the web. It can easily handle complex data-dense desktop applications and build an easy interface | JavaScript (React)          |
 | 2. | [**DataTables**](https://github.com/DataTables/DataTables) ⭐ 7,396 \| 🐛 124 \| 🌐 CSS \| 📅 2026-01-30                  | An extensive plugin that is used to provide multiple functionalities to your table like sorting, filtering, pagination, and custom theming.                    | JavaScript                  |
-| 3. | [**TanStack Table**](https://github.com/tanstack/table) ⭐ 28,473 \| 🐛 75 \| 🌐 TypeScript \| 📅 2026-10-01              | An Open source JavaScript Table Library to create powerful tables & data grids.                                                                                | JavaScript                  |
+| 3. | [**TanStack Table**](https://github.com/tanstack/table) ⭐ 28,473 \| 🐛 76 \| 🌐 TypeScript \| 📅 2026-10-01              | An Open source JavaScript Table Library to create powerful tables & data grids.                                                                                | JavaScript                  |
 | 4. | [**Handsontable**](https://github.com/handsontable/handsontable) ⭐ 22,057 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-10-02     | JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡                                  | JavaScript                  |
 | 5. | [**Bootstrap Table**](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,811 \| 🐛 208 \| 🌐 JavaScript \| 📅 2026-10-03 | An extended table to integration with some of the most widely used CSS frameworks.                                                                             | Bootstrap                   |
 | 6. | [**List.js**](https://github.com/javve/list.js) ⭐ 11,209 \| 🐛 202 \| 🌐 JavaScript \| 📅 2025-04-27                     | The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements.                                               | JavaScript                  |
-| 7. | [**AG-Grid**](https://github.com/ag-grid/ag-grid) ⭐ 15,627 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-10-02                   | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript                                         | JavaScript                  |
+| 7. | [**AG-Grid**](https://github.com/ag-grid/ag-grid) ⭐ 15,626 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-10-03                   | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript                                         | JavaScript                  |
 | 8. | [**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) ⭐ 7,265 \| 🐛 56 \| 🌐 JavaScript \| 📅 2026-06-15           | Tiny vanilla JS plugin to display large data sets easily                                                                                                       | JavaScript                  |
 | 9. | [**Material Table**](https://github.com/mbrn/material-table) ⭐ 3,483 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-05-04           | Datatable for React based on material-ui's table with additional features.                                                                                     | JavaScript (React)          |
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+[**Top 🔼**](https://github.com/themeselection/Awesome-JavaScript-Libraries#table-of-contents)
 
 </div>
 
 ***
 
-If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [**Contributing Guidelines**](https://github.com/themeselection/Awesome-JavaScript-Libraries/blob/main/Contributing.md) ⭐ 78 | 🐛 2 | 📅 2023-12-11
+If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [**Contributing Guidelines**](https://github.com/themeselection/Awesome-JavaScript-Libraries/blob/main/Contributing.md)
 
 ***
 

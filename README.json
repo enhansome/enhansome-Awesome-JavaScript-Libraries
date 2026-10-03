@@ -1,908 +1,6 @@
 {
   "items": [
     {
-      "description": "Building modern web applications demands the right set of tools. With an abundance of JavaScript libraries available, finding the perfect ones for creating UI components can be overwhelming. That's where this repository comes in handy – a curated list of the best JavaScript libraries tailored for diverse UI components. 🚀🚀\nGive this repository a \"⭐\" to keep improving this list.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "UI Components",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Accordion / Collapse",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Badges / Chips",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Notification, Snackbar and Toast",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Buttons",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Carousel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dropdown",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Modals",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Navbar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Charts and Graphs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cards",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pagination",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Progress",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Rating",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Menus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Breadcrumb Navigation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Snackbar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Timeline",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tooltip",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Search",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Drag and Drop",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Form Validation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Date Pickers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "3D and Games",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Search",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Editor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Table",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-            "homepage": null,
-            "id": 722090566,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-12-11T05:04:52Z",
-            "open_issues": 2,
-            "owner": "themeselection",
-            "repo": "Awesome-JavaScript-Libraries",
-            "stars": 78,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-resources",
-              "awsome-lists",
-              "javascript",
-              "javascriptlib",
-              "library",
-              "ui",
-              "ui-components",
-              "ui-library"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:51.895Z"
-        }
-      ],
-      "title": "Why This Repository?"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -1162,38 +260,6 @@
                   "toast",
                   "vue",
                   "vue-toast"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -1554,38 +620,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -1860,38 +894,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -2081,38 +1083,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -2137,7 +1107,7 @@
                 "open_issues": 19,
                 "owner": "d3",
                 "repo": "d3",
-                "stars": 113799,
+                "stars": 113800,
                 "topics": [
                   "chart",
                   "charts",
@@ -2487,7 +1457,7 @@
                 "open_issues": 52,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14107,
+                "stars": 14106,
                 "topics": [
                   "canvas",
                   "charts",
@@ -2533,38 +1503,6 @@
                   "vuejs",
                   "vuejs2",
                   "vuejs3"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -2842,38 +1780,6 @@
                   "javascript",
                   "react",
                   "react-component"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -3178,38 +2084,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -3510,38 +2384,6 @@
                 "repo": "angular-timeline",
                 "stars": 419,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
             }
@@ -3919,38 +2761,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -4255,38 +3065,6 @@
                   "state-management",
                   "subscription",
                   "validation"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
@@ -4694,38 +3472,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -4750,7 +3496,7 @@
                 "open_issues": 381,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116175,
+                "stars": 116179,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -4784,7 +3530,7 @@
                 "open_issues": 16,
                 "owner": "pmndrs",
                 "repo": "react-three-fiber",
-                "stars": 32678,
+                "stars": 32680,
                 "topics": [
                   "3d",
                   "animation",
@@ -4918,7 +3664,7 @@
                 "open_issues": 455,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16972,
+                "stars": 16974,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -5116,7 +3862,7 @@
                 "open_issues": 381,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116175,
+                "stars": 116179,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -5285,38 +4031,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -5343,38 +4057,6 @@
                 "repo": "vanilla-calendar",
                 "stars": 107,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
             }
@@ -5644,38 +4326,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": null,
@@ -5702,38 +4352,6 @@
                 "repo": "wysihtml5",
                 "stars": 6442,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
             }
@@ -5812,7 +4430,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:24:36Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "TanStack",
                 "repo": "table",
                 "stars": 28473,
@@ -5963,11 +4581,11 @@
                 "id": 28407613,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:10:36Z",
+                "last_commit": "2026-10-03T03:42:44Z",
                 "open_issues": 126,
                 "owner": "ag-grid",
                 "repo": "ag-grid",
-                "stars": 15627,
+                "stars": 15626,
                 "topics": [
                   "angular",
                   "angular-grid",
@@ -6045,38 +4663,6 @@
                 ]
               },
               "first_seen": "2026-08-28T07:07:51.895Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Top 🔼",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
-                "homepage": null,
-                "id": 722090566,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2023-12-11T05:04:52Z",
-                "open_issues": 2,
-                "owner": "themeselection",
-                "repo": "Awesome-JavaScript-Libraries",
-                "stars": 78,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-resources",
-                  "awsome-lists",
-                  "javascript",
-                  "javascriptlib",
-                  "library",
-                  "ui",
-                  "ui-components",
-                  "ui-library"
-                ]
-              },
-              "first_seen": "2026-08-28T07:07:51.895Z"
             }
           ],
           "description": "If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our Contributing Guidelines",
@@ -6088,7 +4674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:23:49.901Z",
+    "last_updated": "2026-10-03T04:27:10.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "The Currated list of 200+ Awesome JavaScript libraries to add stunning UI components in your projects.",
